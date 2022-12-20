@@ -9,7 +9,7 @@ The major goal of the blood bank management system is to keep track of blood, do
 ## DONOR_MODEL
 Donors can log in and register with basic information on our website. Donors can donate the different types of blood which are available. Donors can request to administrative for donating blood and also make a request for blood as patients.
 
-## PATIENT_MPDEL
+## PATIENT_MODEL
 Patients can log in and register with basic information on our website. The patient can request blood for which they are in need of.
 
 ## ADMIN_MODEL
